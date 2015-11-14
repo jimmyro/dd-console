@@ -1,0 +1,10 @@
+C:\Users\Jimmy\AppData\Local\Temporary Projects\DDconsole\bin\Debug\DDconsole.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\DDconsole\bin\Debug\DDconsole.pdb
+C:\Users\Jimmy\AppData\Local\Temporary Projects\DDconsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\AppData\Local\Temporary Projects\DDconsole\obj\x86\Debug\DDconsole.exe
+C:\Users\Jimmy\AppData\Local\Temporary Projects\DDconsole\obj\x86\Debug\DDconsole.pdb
+C:\Users\Jimmy\Desktop\C#\DDconsole\DDconsole\obj\x86\Debug\DDconsole.exe
+C:\Users\Jimmy\Desktop\C#\DDconsole\DDconsole\obj\x86\Debug\DDconsole.pdb
+C:\Users\Jimmy\Desktop\C#\DDconsole\DDconsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\C#\DDconsole\DDconsole\bin\Debug\DDconsole.exe
+C:\Users\Jimmy\Desktop\C#\DDconsole\DDconsole\bin\Debug\DDconsole.pdb
